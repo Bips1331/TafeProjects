@@ -1,1 +1,2 @@
 An app made to track a user's sleep. It will show a user's sleep pattern over the course of a night
+It will track rem sleep, Non rem sleep, Deep sleep, Light sleep as well as the cycles.
